@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidClasses</string>
+    <string name="wel_mess">Welcome</string>
+    <string name="bt_mess">Login</string>
+    <string name="change">Changed from English to Hindi</string>
+    <string name="reg_f">Registration Form</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="phone_">Enter Phone</string>
+    <string name="submit">Submit Form</string>
+</resources>

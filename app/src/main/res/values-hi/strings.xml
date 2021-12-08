@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">स्थानीयकरणex1</string>
+    <string name="wel_mess">मेरे ऐप में आपका स्वागत है</string>
+    <string name="bt_mess">लॉग इन करने के लिए यहां क्लिक करें</string>
+    <string name="change">अंग्रेजी से हिंदी में बदला गया</string>
+    <string name="reg_f">पंजीकरण फॉर्म</string>
+    <string name="enter_name">नाम दर्ज</string>
+    <string name="phone_">फ़ोन दर्ज करें</string>
+    <string name="submit">फार्म जमा करें</string>
+</resources>
